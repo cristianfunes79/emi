@@ -1,0 +1,3 @@
+[submodule "sensor_wifi"]
+	path = sensor_wifi
+	url = git@github.com:cristianfunes79/sensor_wifi.git
