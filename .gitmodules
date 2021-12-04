@@ -7,3 +7,6 @@
 [submodule "third_party/esp32_idf/esp-idf"]
 	path = third_party/esp32_idf/esp-idf
 	url = https://github.com/espressif/esp-idf.git
+[submodule "Equipo_Central"]
+	path = Equipo_Central
+	url = git@github.com:Juanlzc/Equipo_Central.git
