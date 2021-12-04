@@ -1,3 +1,6 @@
 [submodule "sensor_wifi"]
 	path = sensor_wifi
 	url = git@github.com:cristianfunes79/sensor_wifi.git
+[submodule "third_party/esp8266_idf/ESP8266_RTOS_SDK"]
+	path = third_party/esp8266_idf/ESP8266_RTOS_SDK
+	url = https://github.com/espressif/ESP8266_RTOS_SDK.git
