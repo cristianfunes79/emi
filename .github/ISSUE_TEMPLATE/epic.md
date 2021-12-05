@@ -1,12 +1,10 @@
 ---
 name: Epic
 about: Issue for epics
-title: epic
+title: ''
 labels: epic
 assignees: ''
 
 ---
 
 ### Description
-[ ] Story 1
-[ ] Story 2
