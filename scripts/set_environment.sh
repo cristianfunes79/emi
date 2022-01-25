@@ -1,6 +1,6 @@
-#! /bin/bash
+#! /bin/zsh
 
-# this script must be sourced from repo root
+# this script must be sourced from repo root and sourced from zsh
 # source scripts/set_environment.sh
 
 # Exports ------------------------------------------------------------------------------------
